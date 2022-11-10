@@ -6,7 +6,7 @@ import { User } from './User';
 const options: LoaderOptions = {
   /* todo */
 };
-const loader = new Loader('AIzaSyDyMlO-7zHjEhWIyspREgBe8CKiymhIdsY', options);
+const loader = new Loader('00000-11111111', options);
 
 export interface Mappable {
   location: {
