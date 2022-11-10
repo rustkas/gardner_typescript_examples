@@ -1,2 +1,2 @@
-# gardner_typescript_examples
-TypeScript Tuturial projects
+# Typescript examples projects
+
